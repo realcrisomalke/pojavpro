@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pojavpro.carrd.co/sitemap.xml
